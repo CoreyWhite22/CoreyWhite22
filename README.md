@@ -4,6 +4,13 @@
 
 testing
 
+
+<a href="https://coreywhite22.github.io/" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+
+<a href="https://coreywhite22.github.io/" ><img src="https://img.shields.io/social/follow/abhisheknaiidu.svg?style=social" /> </a>
+
+<a href="https://coreywhite22.github.io/" ><img src="https://img.shields.io/white/test/testing.svg?style=social" /> </a>
+
 &nbsp; [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
 
