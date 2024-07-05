@@ -4,6 +4,20 @@
 
 [![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Site-blue?style=flat)](https://coreywhite22.github.io/)
 
+----
+
+[![My Portfolio](https://img.shields.io/badge/-My%20Portfolio%20Site-Visit-blue?style=social&logo=globe)](https://coreywhite22.github.io/)
+
+
+[![My Portfolio](https://img.shields.io/badge/-My%20Portfolio%20Site-blue?style=social)](https://coreywhite22.github.io/)
+
+[![My Portfolio](https://img.shields.io/badge/Portfolio-blue?style=social&)](https://coreywhite22.github.io/)
+
+[![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=)](https://coreywhite22.github.io/)
+
+
+-----
+
 [![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=globe)](https://coreywhite22.github.io/)
 
 
