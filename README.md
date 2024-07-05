@@ -4,6 +4,8 @@
 
 testing
 
+[![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Site-blue?style=social)](https://coreywhite22.github.io/)
+
 [![My Portfolio Site](https://img.shields.io/badge/My%20Portfolio%20Site-%E2%9C%85-blue?style=social)](https://coreywhite22.github.io/)
 
 <a href="https://coreywhite22.github.io/" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
