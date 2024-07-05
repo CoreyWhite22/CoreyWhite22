@@ -4,6 +4,12 @@
 
 testing
 
+[![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=visual-studio-code)](https://coreywhite22.github.io/)
+
+[![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=globe)](https://coreywhite22.github.io/)
+
+[![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=anydesk)](https://coreywhite22.github.io/)
+
 [![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Site-blue?style=social)](https://coreywhite22.github.io/)
 
 [![My Portfolio Site](https://img.shields.io/badge/My%20Portfolio%20Site-%E2%9C%85-blue?style=social)](https://coreywhite22.github.io/)
