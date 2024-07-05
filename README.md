@@ -12,6 +12,8 @@
 
 [![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Website-green?style=flat)](https://coreywhite22.github.io/)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/)
+
 ----
 
 [![My Portfolio](https://img.shields.io/badge/-My%20Portfolio%20Site-Visit-blue?style=social&logo=globe)](https://coreywhite22.github.io/)
