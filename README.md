@@ -2,7 +2,15 @@
 
 ## Hi there 👋
 
-[![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Site-blue?style=flat)](https://coreywhite22.github.io/)
+[![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Website-blue?style=flat)](https://coreywhite22.github.io/)
+
+[![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Website-black?style=flat)](https://coreywhite22.github.io/)
+
+[![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Website-white?style=flat)](https://coreywhite22.github.io/)
+
+[![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Website-grey?style=flat)](https://coreywhite22.github.io/)
+
+[![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Website-green?style=flat)](https://coreywhite22.github.io/)
 
 ----
 
