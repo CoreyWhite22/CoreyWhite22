@@ -2,6 +2,13 @@
 
 ## Hi there 👋
 
+
+<a href="https://coreywhite22.github.io/" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+
+<a href="https://coreywhite22.github.io/" ><img src="https://img.shields.io/anydesk/My/Portfolio/Site.svg?style=social" /> </a>
+
+<a href="https://coreywhite22.github.io/" ><img src="https://img.shields.io/github/My/Portfolio/Site.svg?style=social" /> </a>
+
 testing
 
 [![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=visual-studio-code)](https://coreywhite22.github.io/)
@@ -9,6 +16,24 @@ testing
 [![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=globe)](https://coreywhite22.github.io/)
 
 [![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=anydesk)](https://coreywhite22.github.io/)
+
+[![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=hackthebox)](https://coreywhite22.github.io/)
+
+[![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=hashnode)](https://coreywhite22.github.io/)
+
+[![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=htmx)](https://coreywhite22.github.io/)
+
+[![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=html5)](https://coreywhite22.github.io/)
+
+[![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=react)](https://coreywhite22.github.io/)
+
+[![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=inertia)](https://coreywhite22.github.io/)
+
+[![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=internetcomputer)](https://coreywhite22.github.io/)
+
+[![My Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=kedro)](https://coreywhite22.github.io/)
+
+
 
 [![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Site-blue?style=social)](https://coreywhite22.github.io/)
 
