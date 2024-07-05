@@ -14,6 +14,11 @@ testing
 
 [![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Website-blue)](https://coreywhite22.github.io/)
 
+[![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Website)](https://coreywhite22.github.io/)
+
+[![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Website-social)](https://coreywhite22.github.io/)
+
+[![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Website-white)](https://coreywhite22.github.io/)
 
 
 [![My Portfolio Website](style=social&label=Star&maxAge=2592000)](https://coreywhite22.github.io/)
