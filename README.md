@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-[![My Portfolio Site](https://img.shields.io/badge/Portfolio-darkgrey?style=flat)](https://coreywhite22.github.io/)
+[![My Portfolio Site](https://img.shields.io/badge/Portfolio-lightgrey?style=flat)](https://coreywhite22.github.io/)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/)
 
@@ -10,6 +10,7 @@
 
 ------
 
+[![My Portfolio Site](https://img.shields.io/badge/Portfolio-darkwhite?style=flat)](https://coreywhite22.github.io/)
 
 [![My Portfolio Site](https://img.shields.io/badge/Portfolio-white?style=flat)](https://coreywhite22.github.io/)
 
