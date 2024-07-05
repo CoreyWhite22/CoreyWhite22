@@ -27,6 +27,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/YourLinkedInUsername/)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/)
 
