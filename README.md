@@ -2,32 +2,24 @@
 
 ## Hi there 👋
 
-<a href="https://coreywhite22.github.io/" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
 
-<a href="https://coreywhite22.github.io/" ><img src="https://img.shields.io/linkedin.svg?style=social" /> </a>
 
 [![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Website-blue?style=flat)](https://coreywhite22.github.io/)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/)
+
+
 [![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Website-black?style=flat)](https://coreywhite22.github.io/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/)
+
 
 [![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Website-white?style=flat)](https://coreywhite22.github.io/)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/)
+
+
 [![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Website-grey?style=flat)](https://coreywhite22.github.io/)
-
-[![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Website-green?style=flat)](https://coreywhite22.github.io/)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn?style=social&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/)
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-social?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/YourLinkedInUsername/)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/)
 
