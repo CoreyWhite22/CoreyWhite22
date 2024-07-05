@@ -27,6 +27,8 @@ testing
 
 [![My Portfolio Website](style=social)](https://coreywhite22.github.io/)
 
+[![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Site-blue?style=flat)](https://coreywhite22.github.io/)
+
 https://coreywhite22.github.io/
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
