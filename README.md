@@ -2,6 +2,28 @@
 
 ## Hi there 👋
 
+<style>
+
+.social-style-link {
+  display: inline-block;
+  background-color: #555; /* Dark gray background */
+  color: white; /* White text */
+  text-decoration: none; /* Remove underline from link */
+  padding: 6px 12px; /* Top and bottom padding, left and right padding */
+  font-family: Arial, sans-serif; /* Font similar to img.shields.io */
+  font-size: 12px; /* Small font size for authenticity */
+  border-radius: 4px; /* Rounded corners */
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1); /* Slight box shadow for depth */
+}
+
+.social-style-link:hover {
+  background-color: #444; /* Slightly darker background on hover */
+}
+
+</style>
+
+<a href="https://coreywhite22.github.io/" class="social-style-link">My Portfolio Website</a>
+
 
 <a href="https://coreywhite22.github.io/" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
 
