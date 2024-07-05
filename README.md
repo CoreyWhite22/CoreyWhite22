@@ -2,6 +2,10 @@
 
 ## Hi there 👋
 
+<a href="https://coreywhite22.github.io/" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+
+<a href="https://coreywhite22.github.io/" ><img src="https://img.shields.io/linkedin.svg?style=social" /> </a>
+
 [![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Website-blue?style=flat)](https://coreywhite22.github.io/)
 
 [![My Portfolio Site](https://img.shields.io/badge/-My%20Portfolio%20Website-black?style=flat)](https://coreywhite22.github.io/)
