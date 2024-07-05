@@ -15,9 +15,11 @@
 
 
 
-[![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:co.white.twentytwo@gmail.com)
 
-[![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=google&logoColor=white)](mailto:co.white.twentytwo@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:co.white.twentytwo@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=green)](mailto:co.white.twentytwo@gmail.com)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
