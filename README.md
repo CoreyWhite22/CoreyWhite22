@@ -4,7 +4,7 @@
 
 Check out my portfolio:
 
-https://img.shields.io/twitter/follow/:user
+<a href="https://coreywhite22.github.io/" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
 
 
 [![My Portfolio Site](https://img.shields.io/badge/Portfolio-grey?style=flat)](https://coreywhite22.github.io/)
