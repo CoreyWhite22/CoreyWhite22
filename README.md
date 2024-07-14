@@ -4,6 +4,9 @@
 
 Check out my portfolio:
 
+https://img.shields.io/twitter/follow/:user
+
+
 [![My Portfolio Site](https://img.shields.io/badge/Portfolio-grey?style=flat)](https://coreywhite22.github.io/)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/coreywhite22/)
